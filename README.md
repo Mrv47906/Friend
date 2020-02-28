@@ -1,2 +1,2 @@
 # Friend
-Tihis script is for termux begenners
+This script is for termux begenners
